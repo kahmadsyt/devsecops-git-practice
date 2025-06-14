@@ -1,4 +1,3 @@
 # DevSecOps Git Practice
 
-## Getting Started
-This is a DevSecOps practice project
+This is a comprehensive DevSecOps learning project

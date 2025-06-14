@@ -1,1 +1,1 @@
-## Contributors\n- Achmad Kamil
+## Contributors - Achmad Kamil
